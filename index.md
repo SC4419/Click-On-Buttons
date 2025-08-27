@@ -4,3 +4,5 @@ If you click on the 1st button, nothing happens.
 If you click on the 2nd button, nothing happens.
 <br>
 (made for no reason at all, and it has no purpose)
+<br>
+[Link text](buttons.htm)
