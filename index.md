@@ -5,4 +5,4 @@ If you click on the 2nd button, nothing happens.
 <br>
 (made for no reason at all, and it has no purpose)
 <br>
-[htm](buttons.htm)
+[See it for yourself](buttons.htm)
